@@ -1,0 +1,20 @@
+ID: 1
+Name: Boyce McRannell
+Position: Geologist II
+Salary: 55000
+--------------------------------------------
+ID: 2
+Name: Ynez Dyhouse
+Position: Nurse
+Salary: 45000
+--------------------------------------------
+ID: 4
+Name: Javier Stillwell
+Position: Senior Developer
+Salary: 53000
+--------------------------------------------
+ID: 5
+Name: Gage Fandrey
+Position: Senior Cost Accountant
+Salary: 45000
+--------------------------------------------
